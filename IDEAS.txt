@@ -1,0 +1,29 @@
+﻿IDEAS
+
+
+* Akash V :
+   * Predicate the accurate Value
+   * Use Required Algorithms
+   * Selection of required metrics in the dataset
+   * Machine Learning
+
+
+* Jino D :
+   * Understandable templates 
+   * Let it be Simple
+   * Test sample input
+   * We need to split the dataset into training and testing sets
+
+
+* Nitin Roy J :
+   * Choose the right data
+   * Understand the Data 
+   * Global sales data analyst
+   * Performance of different car models which is better for their particular price
+
+
+* Ajin J K :
+   * Performance evaluation
+   * User attractive and Friendly
+   * Regression analysis  to estimate the used car prices
+   * Comparison of the performance of the models
