@@ -4,10 +4,10 @@ With difficult economic conditions, it is likely that sales of second-hand impor
 
 In order to predict the resale value of the car, we proposed an intelligent, flexible, and effective system that is based on using regression algorithms. Considering the main factors which would affect the resale value of a vehicle a regression model is to be built that would give the nearest resale value of the vehicle. We will be using various regression algorithms and algorithm with the best accuracy will be taken as a solution, then it will be integrated to the web-based application where the user is notified with the status of his product.
 
-Technical Architecture 
+# Technical Architecture 
 image
 
-Project Objectives
+# Project Objectives
 To understand the problem to classify if it is a regression or a classification kind of problem.
 
 To know how to pre-process/clean the data using different data pre-processing techniques.
