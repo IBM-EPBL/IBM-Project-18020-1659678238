@@ -9,7 +9,7 @@ In order to predict the resale value of the car, we proposed an intelligent, fle
 
 
 # Project Objectives
-To understand the problem to classify if it is a regression or a classification kind of problem.
+- To understand the problem to classify if it is a regression or a classification kind of problem.
 
 To know how to pre-process/clean the data using different data pre-processing techniques.
 
